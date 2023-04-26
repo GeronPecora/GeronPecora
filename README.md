@@ -2,18 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Geron+Pécora;I'm+17+years+old;I+from+Brasil,+SJC;I+study+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GeronPecora&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=9370DB&text_color=c9d1d9&bg_color=0d1117" alt="Geron Pécora github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeronPecora&layout=compact&hide_border=true&title_color=9370DB&text_color=9370DB&bg_color=0d1117" />
+<div align="center">
+  <a href="https://github.com/GeronPecora">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeronPecora&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeronPecora&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-<br><br>
-
-<div align="center">  
-<a href="www.instagram.com/gegerow/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-
-<br><br>
+<br><br><br>
 
 ## Skills and Tools 🖥️
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Geron-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
@@ -26,7 +21,15 @@
 <br><br>
   
 ## Studying in this moment 📝
+  
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Geron-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
 
+<br><br>
+  
+## Socials 🌐
+<div>
+  <a href="https://instagram.com/gegerow" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
