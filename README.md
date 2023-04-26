@@ -8,7 +8,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeronPecora&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-<br><br><br>
+<br>
 
 ## Skills and Tools 🖥️
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Geron-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
@@ -18,13 +18,13 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"><img align="center" alt="Geron-W8" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><img align="center" alt="Geron-GH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width: 100%;"></a>
 
-<br><br>
+<br>
   
 ## Studying in this moment 📝
   
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Geron-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
 
-<br><br>
+<br>
   
 ## Socials 🌐
 <div>
@@ -32,4 +32,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
+ <br><br>   
+    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
