@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=GeronPecora)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Geron+Pécora;I'm+17+years+old;I+from+Brasil,+SJC;I+study+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
