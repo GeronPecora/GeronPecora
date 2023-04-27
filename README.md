@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=GeronPecora)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Geron+Pécora;I'm+17+years+old;I+from+Brasil,+SJC;I+study+systems+development+at+Etec;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -32,7 +31,8 @@
   <a href="https://instagram.com/gegerow" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
-
- <br> 
     
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GeronPecora}/count.svg" /></p> 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
