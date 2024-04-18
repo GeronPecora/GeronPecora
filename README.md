@@ -6,23 +6,23 @@
 
 ###
 
-<h3 align="left">About me 👤</h3>
+<h2 align="left">About me 👤</h2>
 
 ###
 
-<p align="left">🌎 I am from Brazil.</p>
+<p align="left"> - 🌎 I am from Brazil.</p>
 
 ###
 
-<p align="left">👨‍🎓 Graduated since 2023, with a technical degree in Systems Development from Etec. Currently pursuing Systems Analysis and Development at UNIP.</p>
+<p align="left"> - 👨‍🎓 Graduated since 2023, with a technical degree in Systems Development from Etec. Currently pursuing Systems Analysis and Development at UNIP.</p>
 
 ###
 
-<p align="left">🔎 I am looking for my first job in the field to become a respected programmer.</p>
+<p align="left"> - 🔎 I am looking for my first job in the field to become a respected programmer.</p>
 
 ###
 
-<h3 align="left">Skills and Tools 🛠️</h3>
+<h2 align="left">Skills and Tools 🛠️</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left">My Stats 🔥</h3>
+<h2 align="left">My Stats 🔥</h2>
 
 ###
 
@@ -73,12 +73,12 @@
 
 ###
 
-<h3 align="left">Social 🌐</h3>
+<h2 align="left">Social 🌐</h2>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/geron-pécora-5148782b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 </div>
 
 ###
